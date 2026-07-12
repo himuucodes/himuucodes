@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Himanshu Thakkar
+# Hi 👋, I'm Himanshu Thakkar
 
-### 🚀 Flutter Developer | 💻 Full Stack Developer | 🤖 AI Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Flutter+Developer;Next.js+Developer;Laravel+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Awesome+Applications" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;Next.js+Learner;Laravel+Developer;MongoDB+Developer;Building+AI+Projects;Always+Learning+New+Things" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=HimanshuUyt&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=himuucodes&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -15,39 +13,40 @@
 # 🚀 About Me
 
 ```yaml
-Name: Himanshu Thakkar
+Name: Himanshu Thakka
 
-Username: HimanshuUyt
+Username: himuucodes
 
-Role:
-  Flutter Developer
+Location: India
 
-Current Focus:
-  - Flutter
-  - Next.js
-  - Laravel
-  - AI
+Role: Flutter Developer
+
+Backend: Laravel
+
+Frontend: Next.js
+
+Database:
   - MongoDB
-
-Currently Building:
-  Smart Daily Expenses Tracker with AI Insights
+  - Firebase
+  - MySQL
 
 Learning:
-  DevOps
-  System Design
-  AI Integration
+  - AI
+  - DevOps
+  - Docker
+  - Kubernetes
 
-Goal:
-  Become a Full Stack AI Engineer
+Current Project:
+  Smart Daily Expenses Tracker with AI Insights
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🌟 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nextjs,react,nodejs,laravel,php,mongodb,mysql,tailwind,html,css,javascript,typescript,git,github,docker,linux,vscode,androidstudio,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,nextjs,react,tailwind,nodejs,express,laravel,php,mongodb,mysql,firebase,git,github,docker,linux,figma,postman,cpp,c,python,java&perline=8" />
 
 </div>
 
@@ -57,114 +56,197 @@ Goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuUyt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=himuucodes&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuUyt&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himuucodes&layout=compact&theme=tokyonight" />
+</p>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=HimanshuUyt&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuucodes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HimanshuUyt/HimanshuUyt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himuucodes&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HimanshuUyt&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=himuucodes&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 💻 Currently Working On
 
-<div align="center">
+🚀 Smart Daily Expenses Tracker with AI Insights
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuUyt&theme=tokyo-night&hide_border=true"/>
+📱 Flutter Mobile Applications
 
-</div>
+🌍 Next.js Web Applications
 
----
+⚙ Laravel REST APIs
 
-# 🛠 Featured Projects
-
-| Project | Technology |
-|----------|------------|
-| 💰 Smart Daily Expenses Tracker with AI Insights | Flutter • AI • MongoDB |
-| 🌐 Portfolio Website | Next.js • Tailwind CSS |
-| 🔐 Laravel REST API | Laravel • MongoDB |
-| 🤖 AI Chat Assistant | Flutter • Node.js |
+🤖 AI Powered Features
 
 ---
 
 # 🌱 Currently Learning
 
-- ✅ Flutter Advanced
-- ✅ AI Integration
-- ✅ Next.js
-- ✅ DevOps
-- ✅ Docker
-- ✅ Kubernetes
+- AI Integration
+- Docker
+- Kubernetes
+- CI/CD
+- System Design
+- Clean Architecture
 
 ---
 
-# 📫 Connect With Me
+# 📂 Featured Projects
 
-<div align="center">
+### 💰 Smart Daily Expenses Tracker with AI Insights
 
-<a href="https://github.com/HimanshuUyt">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+Flutter
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+MongoDB
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+Laravel
 
-</div>
+Next.js
+
+AI Analytics
 
 ---
 
-# 💡 Quote
+### 🛒 Laravel E-Commerce
 
-> **"Code. Learn. Build. Repeat."**
+Authentication
+
+Cart
+
+Payment Gateway
+
+Admin Dashboard
 
 ---
 
-<div align="center">
+### 📱 Flutter Expense Tracker
 
-### ⚡ Fun Fact
+Offline Storage
+
+Charts
+
+Reports
+
+AI Insights
+
+---
+
+### 🌐 Next.js Portfolio
+
+Tailwind CSS
+
+Framer Motion
+
+Responsive UI
+
+Dark Mode
+
+---
+
+# ⚡ Fun Fact
 
 ```dart
-while(alive) {
+while(alive){
     eat();
     code();
     learn();
-    build();
     sleep();
+    repeat();
 }
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+# 🎯 2026 Goals
+
+✅ Build Amazing Flutter Apps
+
+✅ Master AI
+
+✅ Master DevOps
+
+✅ Contribute to Open Source
+
+✅ Become Full Stack Developer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/himuucodes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action to display the snake animation.
+
+```markdown
+<img src="https://raw.githubusercontent.com/himuucodes/himuucodes/output/github-contribution-grid-snake.svg" />
+```
+
+---
+
+# ☕ Support Me
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!" />
 
 </div>
