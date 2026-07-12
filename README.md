@@ -13,7 +13,7 @@
 # 🚀 About Me
 
 ```yaml
-Name: Himanshu Thakka
+Name: Himanshu Thakkar
 
 Username: himuucodes
 
@@ -66,18 +66,6 @@ Current Project:
 
 </div>
 
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuucodes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
@@ -86,17 +74,6 @@ Current Project:
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himuucodes&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
 
 # 💻 Currently Working On
 
