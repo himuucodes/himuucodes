@@ -74,82 +74,6 @@ Current Project:
 
 </div>
 
-
-# 💻 Currently Working On
-
-🚀 Smart Daily Expenses Tracker with AI Insights
-
-📱 Flutter Mobile Applications
-
-🌍 Next.js Web Applications
-
-⚙ Laravel REST APIs
-
-🤖 AI Powered Features
-
----
-
-# 🌱 Currently Learning
-
-- AI Integration
-- Docker
-- Kubernetes
-- CI/CD
-- System Design
-- Clean Architecture
-
----
-
-# 📂 Featured Projects
-
-### 💰 Smart Daily Expenses Tracker with AI Insights
-
-Flutter
-
-MongoDB
-
-Laravel
-
-Next.js
-
-AI Analytics
-
----
-
-### 🛒 Laravel E-Commerce
-
-Authentication
-
-Cart
-
-Payment Gateway
-
-Admin Dashboard
-
----
-
-### 📱 Flutter Expense Tracker
-
-Offline Storage
-
-Charts
-
-Reports
-
-AI Insights
-
----
-
-### 🌐 Next.js Portfolio
-
-Tailwind CSS
-
-Framer Motion
-
-Responsive UI
-
-Dark Mode
-
 ---
 
 # ⚡ Fun Fact
@@ -204,13 +128,15 @@ while(alive){
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 GitHub Snake Animation
 
-> Enable the GitHub Action to display the snake animation.
-
-```markdown
-<img src="https://raw.githubusercontent.com/himuucodes/himuucodes/output/github-contribution-grid-snake.svg" />
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himuucodes/himuucodes/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himuucodes/himuucodes/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/himuucodes/himuucodes/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
