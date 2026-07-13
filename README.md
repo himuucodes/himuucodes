@@ -20,30 +20,6 @@
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=himuucodes&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himuucodes&layout=compact&theme=tokyonight" />
-</p>
-
-</div>
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himuucodes&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # ⚡ Fun Fact
 
 ```dart
