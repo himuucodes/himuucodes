@@ -49,7 +49,7 @@ while(alive){
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="himuu-codes-portfolio-ai.vercel.app">
+<a href="https://himuu-codes-portfolio-ai.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
